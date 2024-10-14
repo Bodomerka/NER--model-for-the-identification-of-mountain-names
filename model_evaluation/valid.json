@@ -1,0 +1,517 @@
+[
+  [
+    "Mountains have always captivated the human imagination, symbolizing strength, endurance, and majesty. From the highest peaks to the lesser-known ranges, they shape the landscapes and ecosystems of our world in profound ways. Mount Everest , standing at an astounding 8,848 meters, is the highest point on Earth and is located in the Himalayas. Everest’s incredible height and challenging conditions make it a coveted climb for mountaineers across the globe, though many find its summit elusive.\r",
+    {
+      "entities": [
+        [
+          231,
+          238,
+          "MOUNTAIN"
+        ],
+        [
+          333,
+          343,
+          "MOUNTAIN"
+        ],
+        [
+          344,
+          353,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "\r",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "To the west of Everest lies another giant, K2 , also known as Mount Godwin-Austen . Standing at 8,611 meters in the Karakoram Range , K2 is often regarded as one of the most dangerous mountains to climb, earning the nickname \" Savage Mountain \" due to its steep inclines and unpredictable weather.\r",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "MOUNTAIN"
+        ],
+        [
+          43,
+          45,
+          "MOUNTAIN"
+        ],
+        [
+          68,
+          81,
+          "MOUNTAIN"
+        ],
+        [
+          116,
+          131,
+          "MOUNTAIN"
+        ],
+        [
+          134,
+          136,
+          "MOUNTAIN"
+        ],
+        [
+          227,
+          233,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Not far from these towering peaks lies Kangchenjunga , the third-highest mountain in the world at 8,586 meters. Located on the border between Nepal and the Indian state of Sikkim, Kangchenjunga is revered by locals, and many climbers respect the tradition of not stepping on its summit out of deference to its spiritual significance.\r",
+    {
+      "entities": [
+        [
+          39,
+          52,
+          "MOUNTAIN"
+        ],
+        [
+          180,
+          193,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Heading further west, Nanga Parbat rises at 8,126 meters. Known as the \"Killer Mountain,\" this massif has claimed the lives of many climbers, particularly in the early 20th century when it was notorious for its difficult ascent.\r",
+    {
+      "entities": [
+        [
+          22,
+          34,
+          "MOUNTAIN"
+        ],
+        [
+          72,
+          78,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Europe, the Alps dominate the skyline, with Mont Blanc standing as its tallest peak at 4,809 meters. This mountain, located between France and Italy, attracts thousands of climbers, hikers, and tourists every year who come to admire its beauty and take on the challenge of scaling its snow-covered heights.\r",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "MOUNTAIN"
+        ],
+        [
+          52,
+          57,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Across the ocean in North America, the Rocky Mountains stretch over 4,800 kilometers, with the highest point being Mount Elbert at 4,401 meters, located in Colorado. The Rockies are known for their rugged beauty, alpine lakes, and abundant wildlife.\r",
+    {
+      "entities": [
+        [
+          39,
+          54,
+          "MOUNTAIN"
+        ],
+        [
+          121,
+          127,
+          "MOUNTAIN"
+        ],
+        [
+          170,
+          177,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Alaska, Denali (formerly known as Mount McKinley) towers above the rest of the continent at 6,190 meters. Denali’s massive size and isolated location make it a tough but rewarding climb for mountaineers seeking adventure in the wilderness.\r",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "MOUNTAIN"
+        ],
+        [
+          43,
+          51,
+          "MOUNTAIN"
+        ],
+        [
+          109,
+          115,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Further south in Argentina, Aconcagua stands as the tallest mountain in the Southern Hemisphere, at 6,960 meters. Part of the Andes , Aconcagua is not only a popular climbing destination but also a natural landmark of the region’s geological diversity.\r",
+    {
+      "entities": [
+        [
+          28,
+          37,
+          "MOUNTAIN"
+        ],
+        [
+          126,
+          131,
+          "MOUNTAIN"
+        ],
+        [
+          134,
+          143,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Africa, the iconic Mount Kilimanjaro rises from the plains of Tanzania. At 5,895 meters, it is the highest free-standing mountain in the world and a prominent symbol of Africa. Its snow-capped peak is a striking contrast to the tropical landscape surrounding it.\r",
+    {
+      "entities": [
+        [
+          28,
+          39,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Moving to Asia, Mount Fuji is Japan's most famous mountain, rising 3,776 meters. Revered in Japanese culture and religion, Fuji is an active volcano that remains a popular site for both pilgrimage and tourism.\r",
+    {
+      "entities": [
+        [
+          22,
+          26,
+          "MOUNTAIN"
+        ],
+        [
+          123,
+          127,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Further to the north, in Russia, Mount Elbrus stands as Europe’s highest peak at 5,642 meters. Part of the Caucasus mountain range, Elbrus is a dormant volcano, often climbed by mountaineers aiming to complete the Seven Summits challenge.\r",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "MOUNTAIN"
+        ],
+        [
+          107,
+          115,
+          "MOUNTAIN"
+        ],
+        [
+          132,
+          138,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Andes of Peru, the majestic Huascarán rises at 6,768 meters. It is not only the highest point in Peru but also home to Huascarán National Park, which protects the rich biodiversity and beautiful glacial landscapes of the region.\r",
+    {
+      "entities": [
+        [
+          7,
+          12,
+          "MOUNTAIN"
+        ],
+        [
+          35,
+          44,
+          "MOUNTAIN"
+        ],
+        [
+          126,
+          135,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Bolivia, Illimani stands tall at 6,438 meters, overlooking the city of La Paz. Its presence is a significant part of local culture, and its snow-capped peaks are visible from great distances.\r",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Closer to the equator in Ecuador, Chimborazo claims the title of the highest point on Earth when measured from the center of the Earth rather than sea level, due to the equatorial bulge. It stands at 6,263 meters and is considered sacred by indigenous peoples.\r",
+    {
+      "entities": [
+        [
+          34,
+          44,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In New Zealand, the Southern Alps host Aoraki / Mount Cook , the country’s tallest peak at 3,724 meters. Aoraki holds a special place in Māori mythology and is a popular destination for climbers and adventurers.\r",
+    {
+      "entities": [
+        [
+          29,
+          33,
+          "MOUNTAIN"
+        ],
+        [
+          39,
+          45,
+          "MOUNTAIN"
+        ],
+        [
+          54,
+          58,
+          "MOUNTAIN"
+        ],
+        [
+          105,
+          111,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Mexico, Pico de Orizaba ( also known as Citlaltépetl ) is the highest mountain at 5,636 meters. This dormant volcano is a striking feature of the Mexican landscape and offers climbers a rewarding, albeit challenging, ascent.\r",
+    {
+      "entities": [
+        [
+          11,
+          26,
+          "MOUNTAIN"
+        ],
+        [
+          43,
+          55,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Moving to the Himalayas once more, Makalu stands at 8,485 meters, making it the fifth-highest mountain in the world. Its distinctive pyramid shape and challenging terrain attract experienced climbers seeking to test their limits.\r",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "MOUNTAIN"
+        ],
+        [
+          35,
+          41,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Andes , Huayna Potosí in Bolivia is a favorite among climbers due to its accessibility from La Paz and its height of 6,088 meters. The mountain is also known for its stunning views of the surrounding landscape.\r",
+    {
+      "entities": [
+        [
+          7,
+          12,
+          "MOUNTAIN"
+        ],
+        [
+          15,
+          28,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the Canadian Rockies , Mount Robson is the highest peak at 3,954 meters. Known for its striking vertical relief, Robson is a challenging climb and a beloved destination for hikers and mountaineers alike.\r",
+    {
+      "entities": [
+        [
+          7,
+          23,
+          "MOUNTAIN"
+        ],
+        [
+          32,
+          38,
+          "MOUNTAIN"
+        ],
+        [
+          116,
+          122,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In Chile, Ojos del Salado is the highest volcano in the world, standing at 6,893 meters. Located in the Atacama Desert, Ojos del Salado offers climbers a unique experience, combining desert landscapes with snow-capped peaks.\r",
+    {
+      "entities": [
+        [
+          10,
+          25,
+          "MOUNTAIN"
+        ],
+        [
+          120,
+          135,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "On the border of Argentina and Chile lies Mount Fitz Roy ( also known as Cerro Chaltén ), which, at 3,405 meters, is not particularly tall but is renowned for its sheer granite faces and technical climbing challenges.\r",
+    {
+      "entities": [
+        [
+          48,
+          56,
+          "MOUNTAIN"
+        ],
+        [
+          73,
+          86,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the remote regions of Antarctica, Vinson Massif is the tallest mountain, standing at 4,892 meters. Its location in one of the coldest and most desolate places on Earth makes it a formidable challenge for even the most experienced climbers.\r",
+    {
+      "entities": [
+        [
+          37,
+          50,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Back in Asia, Dhaulagiri stands at 8,167 meters, part of the Dhaulagiri mountain range in Nepal. Its name means \"White Mountain\" and it remains one of the more isolated eight-thousanders, adding to its allure.\r",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "MOUNTAIN"
+        ],
+        [
+          61,
+          71,
+          "MOUNTAIN"
+        ],
+        [
+          113,
+          118,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Further south in the Himalayas is Annapurna , which, at 8,091 meters, is known for its extreme difficulty and high fatality rate among climbers. Despite this, it remains a coveted summit for those willing to brave its dangers.\r",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "MOUNTAIN"
+        ],
+        [
+          34,
+          43,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the United States, the Sierra Nevada range hosts Mount Whitney , which, at 4,421 meters, is the highest point in the contiguous United States. Whitney’s accessibility and scenic views make it a popular hike, though still demanding.\r",
+    {
+      "entities": [
+        [
+          26,
+          39,
+          "MOUNTAIN"
+        ],
+        [
+          58,
+          65,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Another significant peak in the Andes is Nevado Sajama in Bolivia, the highest point in the country at 6,542 meters. Sajama’s volcanic origins and isolated location add to its mystique, attracting adventurers to its slopes.\r",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "MOUNTAIN"
+        ],
+        [
+          41,
+          54,
+          "MOUNTAIN"
+        ],
+        [
+          117,
+          123,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lastly, in the Pyrenees, Pic du Midi d'Ossau is a distinct peak rising at 2,884 meters, known for its sharp, needle-like appearance. Though not particularly tall, it is a well-known landmark and offers breathtaking views of the surrounding landscape.\r",
+    {
+      "entities": [
+        [
+          25,
+          44,
+          "MOUNTAIN"
+        ]
+      ]
+    }
+  ]
+]

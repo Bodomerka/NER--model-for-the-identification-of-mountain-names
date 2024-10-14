@@ -14,7 +14,7 @@ else:
     ner = nlp.get_pipe("ner")
 
 # Load training data from the JSON file
-with open(r'D:\(NER) model for the identification of mountain names\train_data\spacy_train_data.json', 'r', encoding='utf-8') as f:
+with open(r'D:\(NER) model for the identification of mountain names\NER_manual_annotation\train_data\spacy_train_data.json', 'r', encoding='utf-8') as f:
     TRAIN_DATA = json.load(f)
 
 # Function to check and fix entity offsets
@@ -48,7 +48,7 @@ valid_examples = [Example.from_dict(nlp.make_doc(text), annotations) for text, a
 
 # Hyperparameters for model training
 batch_size = 4
-n_iter = 25
+n_iter = 20
 learn_rate = 0.00005
 decay = 0.01
 
@@ -81,6 +81,6 @@ for i in range(n_iter):
     print(f"F1-score after iteration {i+1}: {scorer['ents_f']}")
 
 # Save the trained model to disk
-output_dir = "D:/(NER) model for the identification of mountain names/output_model"
+output_dir = "D:/(NER) model for the identification of mountain names/NER_manual_annotation/output_model"
 nlp.to_disk(output_dir)
 print(f"Model saved to {output_dir}")

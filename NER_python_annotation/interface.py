@@ -1,12 +1,12 @@
 import spacy
 
 # Load the trained NER model
-model_path = "D:/(NER) model for the identification of mountain names/output_model"  # Update this if your model is saved in a different path
+model_path = r"D:\(NER) model for the identification of mountain names\NER_python_annotation\output_model"
 
 nlp = spacy.load(model_path)
 
 # Read the text from the file
-with open("D:/(NER) model for the identification of mountain names/mountain_text.txt", "r", encoding="utf-8") as file:
+with open(r"D:\(NER) model for the identification of mountain names\NER_python_annotation\data_example.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
 # Process the text with the loaded NER model
@@ -17,11 +17,6 @@ print(f"{'Entity Text':<30} | {'Start':<6} | {'End':<6} | {'Label':<10}")
 print("-" * 60)
 for ent in doc.ents:
     print(f"{ent.text:<30} | {ent.start_char:<6} | {ent.end_char:<6} | {ent.label_:<10}")
-
-# Save the results to a file
-with open("D:/(NER) model for the identification of mountain names/entities_output.txt", "w", encoding="utf-8") as out_file:
-    for ent in doc.ents:
-        out_file.write(f"Text: {ent.text}, Start: {ent.start_char}, End: {ent.end_char}, Label: {ent.label_}\n")
 
 # Format the text with entities in bold (**entity**)
 formatted_text = text
